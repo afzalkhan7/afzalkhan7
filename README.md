@@ -5,7 +5,7 @@ I’m afzal khan, and here's a bit about what I'm up to:
 - 💞️ I’m looking to collaborate on projects related to improving accessibility in tech and sustainable solutions.
 - 📫 How to reach me: You can reach out to me via email or connect with me on LinkedIn.
 -    📌Email: afzalkhan10802@gmail.com
--    📌LinkedIn: https://www.linkedin.com/in/afzalkhan007
+-    📌LinkedIn: https://www.linkedin.com/in/afzalkhanofficial
 
   Feel free to explore my repositories and connect with me. Let's build something awesome together!
 <!---
